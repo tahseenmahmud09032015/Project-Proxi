@@ -5,7 +5,7 @@
 
 **What is _Proxi_?**
 
-- Proxi is Artificial intelligence based Project by **@TahseenMahmud**.This is a AI and Programming Project.
+- Proxi is Artificial intelligence based Project by **@TahseenMahmud**.This is a AI and Programming Project.A Project Which is New
 
 **What is _Proxi_'s Main Job**?
 
@@ -22,8 +22,12 @@
 - Alan Becker Stickfigure Maker on Windows
 
 
-** Contact Us**
-Email : tmrishan15@gmail.com 
-        tmrishan215@gmail.com
-Discord : tahseenmahmud09032015
+**Contact Us**
 
+Email :
+
+    tmrishan155@gmail.com
+    
+    tmrishan215@gmail.com
+        
+Discord : tahseenmahmud09032015
