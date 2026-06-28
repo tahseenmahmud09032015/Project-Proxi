@@ -10,7 +10,7 @@
   <a href="https://github.com/tahseenmahmud09032015/Project-Proxi/stargazers">
     <img src="https://img.shields.io/github/stars/tahseenmahmud09032015/Project-Proxi?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars"/>
   </a>
-  <a href="https://opensource.org/licenses/MIT">
+  <a href="https://github.com/tahseenmahmud09032015/Project-Proxi/blob/main/Licence.md">
     <img src="https://img.shields.io/badge/License-MIT-FF0000?style=for-the-badge" alt="License"/>
   </a>
   <a href="https://github.com/tahseenmahmud09032015/Project-Proxi/commits">
