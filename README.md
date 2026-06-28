@@ -6,6 +6,7 @@
 <!-- Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Built+by+%40TahseenMahmud;One+Ecosystem+to+Unite+All+AI;Code.+Learn.+Create.+Deploy.;Coming+June+28%2C+2026)](https://git.io/typing-svg)
 
+
 <p align="center">
   <a href="https://github.com/tahseenmahmud09032015/Project-Proxi/stargazers">
     <img src="https://img.shields.io/github/stars/tahseenmahmud09032015/Project-Proxi?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars"/>
